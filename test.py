@@ -1,3 +1,2 @@
-#this was added as part of the hotfix release
-#and this comment too
+#this was added as part of the hotfix change
 print("test branching")
