@@ -12,4 +12,4 @@ jobs:
         with:
           python-version: '3.10'
       - name: Check syntax
-        run: python -m py_compile your_script.py
+        run: python -m py_compile test.py
